@@ -1,0 +1,51 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.pacifico-regular {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+a{
+  font-family: "Lora", serif;
+}
+
+.search-bar{
+  border-radius: 40px;
+  padding: 7px;
+  border-color:orange;
+  outline:none;
+}
+
+.search-button{
+  border-radius: 40px;
+  padding: 7px;
+  color:white;
+  background-color: orange;
+  border:none;
+  margin-left: -50px;
+  width:5vw;
+}
+
+.banner{
+  background-image: url("https://www.creamscafe.com/wp-content/uploads/2023/10/FB-Banner-1.png");
+  background-size: cover;
+  background-position: top;
+  height: 90vh;
+}
+
+.sub-heading{
+  color:orange;
+}
+.trending-button{
+  border-radius: 40px;
+  padding: 15px;
+  color:white;
+  background-color: gold;
+  border:none;
+  width:10vw;
+  font-weight: 650;
+  margin-top: 10px;
+}
